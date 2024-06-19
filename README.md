@@ -56,9 +56,7 @@ python demo.py -i xxx -m yyy -d zzz
 
 ## Output
 
-* (프로젝트 실행 화면 캡쳐)
-
-![./result.jpg](./result.jpg)
+![car_detect](https://github.com/jiseung0630/Intel-Edge-AI-mini-project-PMH_RJS-/assets/163945374/b94b417f-cd05-42bd-80a8-e5116d9af34b)
 
 ## Appendix
 
