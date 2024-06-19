@@ -22,43 +22,23 @@ git clone https://github.com/jiseung0630/Intel-Edge-AI-mini-project-PMH_RJS-.git
 
 ## Prerequite
 
-* (프로잭트를 실행하기 위해 필요한 dependencies 및 configuration들이 있다면, 설치 및 설정 방법에 대해 기술)
 
 ```shell
-python -m venv .venv
-source .venv/bin/activate
-pip install -r requirements.txt
+pip install jupyter
+
+jupyter notebook
+
 ```
-
-## Steps to build
-
-* (프로젝트를 실행을 위해 빌드 절차 기술)
-
-```shell
-cd ~/xxxx
-source .venv/bin/activate
-
-make
-make install
-```
-
 ## Steps to run
 
 * (프로젝트 실행방법에 대해서 기술, 특별한 사용방법이 있다면 같이 기술)
 
 ```shell
-cd ~/xxxx
-source .venv/bin/activate
+cd Intel-Edge-AI-mini-project-PMH_RJS-/jupyter notebook
 
-cd /path/to/repo/xxx/
-python demo.py -i xxx -m yyy -d zzz
 ```
 
 ## Output
 
 ![car_detect](https://github.com/jiseung0630/Intel-Edge-AI-mini-project-PMH_RJS-/assets/163945374/b94b417f-cd05-42bd-80a8-e5116d9af34b)
-
-## Appendix
-
-* (참고 자료 및 알아두어야할 사항들 기술)
 
