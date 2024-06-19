@@ -9,7 +9,8 @@
 
 ## High Level Design
 
-* (프로젝트 아키텍쳐 기술, 전반적인 diagram 으로 설명을 권장)
+![Screenshot from 2024-06-19 11-42-21](https://github.com/jiseung0630/Intel-Edge-AI-mini-project-PMH_RJS-/assets/163945374/2924fb6b-c236-4f3a-a949-7046430e9e1b)
+
 
 ## Clone code
 
